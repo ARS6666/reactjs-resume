@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Fontf' ;
+    src: url(./farsi.TTF);
+
+}
+
+.fontf {
+    font-family: Fontf ;
+}
